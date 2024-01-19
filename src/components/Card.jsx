@@ -14,7 +14,7 @@ const Card = () => {
 Milk, Sugar, Anjeer Pulp, Kaju
           </p>
           <a href="https://www.whatsapp.com" target="_blank" rel="noopener noreferrer" className="btn mb-3">
-            <img  className='w-[250px] sm:w-full' src='src/assets/images/whatsapp-png-14.png' alt="WhatsApp" />
+            <img  className='w-[100px] sm:w-full' src='https://www.freeiconspng.com/uploads/logo-whatsapp-png-file-15.png' alt="WhatsApp" />
           </a>
 
           <button className='btn btn-danger'>READ MORE</button>

@@ -21,7 +21,7 @@ const Header = () => {
         <div className=" w-full m-auto flex sm:justify-start sm:w-2/12 sm:mt-9">
           <img
             className=" m-auto w-[200px] h-[200px] sm:w-[100px] sm:h-[100px] "
-            src="src/assets/images/pngtree-abstract-simple-ice-crame-logo-with-stars-png-image_7691359.png"
+            src="https://png.pngtree.com/png-clipart/20220509/original/pngtree-abstract-simple-ice-crame-logo-with-stars-png-image_7691359.png"
             alt="CreamnJoy Logo"
           />
         </div>
@@ -38,7 +38,7 @@ const Header = () => {
               placeholder="Search"
               aria-label="Search"
             />
-            <button className="btn btn-outline-success text-white bg-green-800" type="submit">
+            <button className="btn btn-primary text-white hover:bg-green-800">
               Search
             </button>
           </form>
@@ -46,17 +46,17 @@ const Header = () => {
 
         <nav className="w-full flex justify-center sm:justify-end sm:align-top sm:w-9/12">
           <ul className=" text-sm flex mt-20 gap-7 px-3 py-2 font-Teko sm:text-xl">
-          <li  className="scale  hover:text-yellow-400 transition-all duration-1000">
+          <li  className="font-semibold">
    <Link to={""}>Home</Link>
   </li>
 
-  <li  className="scale  hover:text-yellow-400 transition-all duration-1000">
+  <li  className="font-semibold">
    <Link to={"/about"}>About US</Link>
   </li>
 
 
   
-  <li className="scale products hover-scalen  hover:text-yellow-400 transition-all duration-1000">
+  <li className="font-semibold">
   <Link to={"/products"}>Products</Link>
   
  
@@ -68,7 +68,7 @@ const Header = () => {
   
 
   
-  <li  className="scale  hover:text-yellow-400 transition-all duration-1000">
+  <li  className="font-semibold">
    <Link to={"/blog"}>Blog</Link>
   </li>
 

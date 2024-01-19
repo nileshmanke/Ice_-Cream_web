@@ -13,7 +13,7 @@ const About = () => {
     <div className="flex flex-wrap -m-2">
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-black border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="src/assets/images/cardimg.jpg"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://cdn.pixabay.com/photo/2018/08/16/22/59/ice-cream-3611698_1280.jpg"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">MUSKMELON ICE CREAM</h2>
             <p className="text-gray-900">₹203.39</p>
@@ -22,7 +22,7 @@ const About = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-black border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="src/assets/images/2.jpg"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://cdn.pixabay.com/photo/2017/08/06/04/01/ice-cream-2588541_1280.jpg"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">JACKFRUIT ICE CREAM</h2>
             <p className="text-gray-900">₹203.39</p>
@@ -31,7 +31,7 @@ const About = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-black border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="src/assets/images/3.jpg"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://cdn.pixabay.com/photo/2015/09/05/23/54/ice-cream-926426_1280.jpg"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">WATERMELON ICE CREAM</h2>
             <p className="text-gray-900">₹203.39</p>
@@ -40,7 +40,7 @@ const About = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-black border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="src/assets/images/4.jpg"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://cdn.pixabay.com/photo/2016/01/11/07/18/cupcakes-1133146_1280.jpg"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">TENDER COCONUT ICE CREAM</h2>
             <p className="text-gray-900">₹203.39</p>
@@ -49,7 +49,7 @@ const About = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-black border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="src/assets/images/5.jpg"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://media.istockphoto.com/id/585304196/photo/strawberry-ice-cream.webp?s=2048x2048&w=is&k=20&c=K7ePNZ35L-QTikpLkncTK0bmFstbzrwZ2J-YDsOBHc0="/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">MUSKMELON ICE CREAM</h2>
             <p className="text-gray-900">₹203.39</p>
@@ -58,7 +58,7 @@ const About = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-black border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-900 object-cover object-center flex-shrink-0 rounded-full mr-4" src="src/assets/images/6.jpg"/>
+          <img alt="team" className="w-16 h-16 bg-gray-900 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://media.istockphoto.com/id/167167891/photo/ice-cream.jpg?s=2048x2048&w=is&k=20&c=P4uucR6HFnnTVykJVs6EqCh0ldyQK5uveDh1Q9xk0-E="/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">PAPAYA PINEAPPLE ICE CREAM</h2>
             <p className="text-gray-900">₹203.39</p>
@@ -67,7 +67,7 @@ const About = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-black border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-169 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="src/assets/images/7.jpg"/>
+          <img alt="team" className="w-16 h-169 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://media.istockphoto.com/id/160300780/photo/fruit-ice-cream.jpg?s=2048x2048&w=is&k=20&c=agV08OTyjx-EP7UQtpRSGz-b5huXT3R6RkcYJrVycug="/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">CHOCO BITE ICE CREAM</h2>
             <p className="text-gray-900">₹203.39</p>
@@ -85,7 +85,7 @@ const About = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-black border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="src/assets/images/1.jpg"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://media.istockphoto.com/id/622804354/photo/various-ice-cream-balls-with-chocolate-sauce.jpg?s=2048x2048&w=is&k=20&c=r44xXYPbyuqzzjIWryClfv2hryljsakGPyADNRE-5kc="/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium"></h2>COFFEE WALNUT ICE CREAM
             <p className="text-gray-900">₹203.39</p>

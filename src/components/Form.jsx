@@ -73,7 +73,7 @@ const Form = () => {
       </div>
 
       <div className=' z-10 w-full  m-auto p-1 sm:w-6/12 sm:m-auto sm:p-12 hover:translate-y-[-50px] transition-all duration-1000'>
-        <img className='w-[100%] h-[468px] object-cover' src='src/assets/images/ice-cream.jpg' alt='' />
+        <img className='w-[100%] h-[468px] object-cover' src='https://cdn.pixabay.com/photo/2020/02/14/14/19/ice-cream-4848501_1280.jpg' alt='' />
       </div>
 
       <ToastContainer />

@@ -33,16 +33,16 @@ export default function Slider() {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img src="src/assets/images/slide.1.jpg" />
+          <img src="https://naturalicecreams.in/wp-content/uploads/Tilgul_V2_Web-Banner_2560x1078px.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="src/assets/images/slide2.jpg" />
+          <img src="https://naturalicecreams.in/wp-content/uploads/Gauva_V3_Web-Banner_2560x1078px.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="src/assets/images/slide3.jpg" />
+          <img src="https://naturalicecreams.in/wp-content/uploads/Strawberry-Web-banner.jpg" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="src/assets/images/slide.1.jpg" />
+          <img src="https://naturalicecreams.in/wp-content/uploads/2.jpg" />
         </SwiperSlide>
       </Swiper>
     </>
