@@ -67,7 +67,7 @@ const About = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-black border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-169 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://media.istockphoto.com/id/160300780/photo/fruit-ice-cream.jpg?s=2048x2048&w=is&k=20&c=agV08OTyjx-EP7UQtpRSGz-b5huXT3R6RkcYJrVycug="/>
+          <img alt="team" className="w-16 h-169 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://tse4.mm.bing.net/th?id=OIP.KvwnIgAiCTLF7BPX7cbx4AHaE8&pid=Api&P=0&h=180"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">CHOCO BITE ICE CREAM</h2>
             <p className="text-gray-900">₹203.39</p>
@@ -76,7 +76,7 @@ const About = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-black border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="src/assets/images/2.jpg"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="https://images.pexels.com/photos/18622430/pexels-photo-18622430/free-photo-of-photo-of-a-cake-with-strawberries-and-cream.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
           <div className="flex-grow">
             <h2 className="text-gray-900 title-font font-medium">CHOCO CREAM ICE CREAM</h2>
             <p className="text-gray-900">₹203.39</p>

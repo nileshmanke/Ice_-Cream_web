@@ -5,7 +5,7 @@ const imgurl = "https://images4.alphacoders.com/150/thumb-1920-150314.jpg";
 const Card = () => {
   return (
     <div>
-      <div className=" m-auto mt-3 p-3  sm:p-0 card bg-[#dcdde1] w-full border-3 text-blue-700 border-black rounded-3xl hover:translate-y-[-50px] transition-all duration-1000 overflow-hidden hover:bg-[#f7d794]">
+      <div className=" m-auto mt-3 p-3  sm:p-0 card bg-[#dcdde1] w-full border-3 text-blue-700 border-black rounded-3xl hover:shadow-lg transition-all duration-1000 overflow-hidden hover:bg-[#f7d794]">
         <img src={imgurl} className="object-center  card-img-top w-full h-48 sm:object-cover" alt="..." />
         <div className="card-body p-3">
           <h5 className="card-title font-bold text-red-900">CHOCO ALMOND ICE CREAM</h5>

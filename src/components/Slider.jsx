@@ -15,7 +15,7 @@ import { EffectFade, Autoplay, Navigation, Pagination } from 'swiper/modules';
 
 export default function Slider() {
   return (
-    <div className=' mb-3 sm:mb-8'>
+    <div className=' mb-2 sm:mb-8'>
     <>
       <Swiper 
         // spaceBetween={30}

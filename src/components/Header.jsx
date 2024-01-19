@@ -14,9 +14,15 @@ const navdata = [
 const Header = () => {
   return (
     <header className="w-full">
-
+<div>
+        <div className='w-full bg-red-700 p-1 text-center flex justify-between px-2'>
+            <h1 className=' text-white font-semibold'><i className="fa-solid fa-envelope"></i>  nileshmanke12ab@gmail.com</h1>
+            <h1 className=' text-white font-semibold'><i className="fa-solid fa-phone"></i>  9359111841</h1>
+           
+        </div>
+    </div>
      
-      <div className="w-full     text-white text-xl font-serif   bg-[#4b6584] sm:flex sm:justify-around sm:w-full ">
+      <div className="w-full     text-blue-700 text-xl font-serif   bg-[#d4bfad] sm:flex sm:justify-around sm:w-full ">
       
         <div className=" w-full m-auto flex sm:justify-start sm:w-2/12 sm:mt-9">
           <img
