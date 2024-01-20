@@ -26,7 +26,7 @@ export default function Slider() {
         }}
 
         autoplay={{
-            delay: 500,
+            delay: 2500,
             disableOnInteraction: false,
           }}
         modules={[EffectFade,Autoplay, Navigation, Pagination]}
